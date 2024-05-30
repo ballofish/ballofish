@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=ballofish&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=ballofish&fontSize=100&fontAlign=0)
 
 <!--
 **ballofish/ballofish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
